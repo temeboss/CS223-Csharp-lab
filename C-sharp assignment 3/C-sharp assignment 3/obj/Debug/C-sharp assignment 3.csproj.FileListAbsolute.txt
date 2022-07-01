@@ -1,0 +1,8 @@
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\c# lab\C-sharp assignment 3\C-sharp assignment 3\bin\Debug\C-sharp assignment 3.exe.config
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\c# lab\C-sharp assignment 3\C-sharp assignment 3\bin\Debug\C-sharp assignment 3.exe
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\c# lab\C-sharp assignment 3\C-sharp assignment 3\bin\Debug\C-sharp assignment 3.pdb
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\c# lab\C-sharp assignment 3\C-sharp assignment 3\obj\Debug\C-sharp assignment 3.csproj.AssemblyReference.cache
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\c# lab\C-sharp assignment 3\C-sharp assignment 3\obj\Debug\C-sharp assignment 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\c# lab\C-sharp assignment 3\C-sharp assignment 3\obj\Debug\C-sharp assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\c# lab\C-sharp assignment 3\C-sharp assignment 3\obj\Debug\C-sharp assignment 3.exe
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\c# lab\C-sharp assignment 3\C-sharp assignment 3\obj\Debug\C-sharp assignment 3.pdb
