@@ -1,0 +1,11 @@
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\c# lab\labGUI 1\labGUI 1\bin\Debug\labGUI 1.exe.config
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\c# lab\labGUI 1\labGUI 1\bin\Debug\labGUI 1.exe
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\c# lab\labGUI 1\labGUI 1\bin\Debug\labGUI 1.pdb
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\c# lab\labGUI 1\labGUI 1\obj\Debug\labGUI 1.csproj.AssemblyReference.cache
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\c# lab\labGUI 1\labGUI 1\obj\Debug\labGUI 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\c# lab\labGUI 1\labGUI 1\obj\Debug\labGUI_1.Form1.resources
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\c# lab\labGUI 1\labGUI 1\obj\Debug\labGUI_1.Properties.Resources.resources
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\c# lab\labGUI 1\labGUI 1\obj\Debug\labGUI 1.csproj.GenerateResource.cache
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\c# lab\labGUI 1\labGUI 1\obj\Debug\labGUI 1.csproj.CoreCompileInputs.cache
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\c# lab\labGUI 1\labGUI 1\obj\Debug\labGUI 1.exe
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\c# lab\labGUI 1\labGUI 1\obj\Debug\labGUI 1.pdb
