@@ -21,8 +21,6 @@ C:\Users\user\Desktop\x\c#\lab 8\lab 8\bin\Debug\lec 8.pdb
 C:\Users\user\Desktop\x\c#\lab 8\lab 8\obj\Debug\lec 8.exe
 C:\Users\user\Desktop\x\c#\lab 8\lab 8\obj\Debug\lec 8.pdb
 C:\Users\user\Desktop\x\c#\lab 8\lab 8\obj\Debug\lec_8.card.resources
-C:\Users\user\Desktop\x\c#\lab 8\lab 8\obj\Debug\lab8.card.resources
-C:\Users\user\Desktop\x\c#\lab 8\lab 8\obj\Debug\lab_8.card.resources
 C:\Users\user\Desktop\x\c#\lec 8\lec 8\bin\Debug\lec 8.exe.config
 C:\Users\user\Desktop\x\c#\lec 8\lec 8\bin\Debug\lec 8.exe
 C:\Users\user\Desktop\x\c#\lec 8\lec 8\bin\Debug\lec 8.pdb
@@ -39,16 +37,18 @@ C:\Users\user\Desktop\x\c#\lec 8\lab 8\obj\Debug\lab 8.csproj.GenerateResource.c
 C:\Users\user\Desktop\x\c#\lec 8\lab 8\obj\Debug\lab 8.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\x\c#\lec 8\lab 8\obj\Debug\lec 8.exe
 C:\Users\user\Desktop\x\c#\lec 8\lab 8\obj\Debug\lec 8.pdb
-C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\Csharp-lab\lab 9\lab 8\lab 8\obj\Debug\lab 8.csproj.AssemblyReference.cache
-C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\Csharp-lab\lab 9\lab 8\lab 8\obj\Debug\lab 8.csproj.SuggestedBindingRedirects.cache
-C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\Csharp-lab\lab 9\lab 8\lab 8\obj\Debug\lec_8.card.resources
-C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\Csharp-lab\lab 9\lab 8\lab 8\obj\Debug\lec_8.Form2.resources
-C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\Csharp-lab\lab 9\lab 8\lab 8\obj\Debug\lec_8.Properties.Resources.resources
-C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\Csharp-lab\lab 9\lab 8\lab 8\obj\Debug\lab 8.csproj.GenerateResource.cache
-C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\Csharp-lab\lab 9\lab 8\lab 8\obj\Debug\lab 8.csproj.CoreCompileInputs.cache
-C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\Csharp-lab\lab 9\lab 8\lab 8\obj\Debug\lec 8.exe
-C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\Csharp-lab\lab 9\lab 8\lab 8\obj\Debug\lec 8.pdb
-C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\Csharp-lab\lab 9\lab 8\lab 8\bin\Debug\lec 8.exe.config
-C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\Csharp-lab\lab 9\lab 8\lab 8\bin\Debug\lec 8.exe
-C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\Csharp-lab\lab 9\lab 8\lab 8\bin\Debug\lec 8.pdb
-C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\Csharp-lab\lab 9\lab 8\lab 8\obj\Debug\lec_8.Form3.resources
+C:\Users\user\Desktop\x\c#\lab 8\lab 8\obj\Debug\lec_8.Form3.resources
+C:\Users\user\Desktop\x\c#\csharp-lab\lab 9\lab 8\bin\Debug\lec 8.exe.config
+C:\Users\user\Desktop\x\c#\csharp-lab\lab 9\lab 8\bin\Debug\lec 8.exe
+C:\Users\user\Desktop\x\c#\csharp-lab\lab 9\lab 8\bin\Debug\lec 8.pdb
+C:\Users\user\Desktop\x\c#\csharp-lab\lab 9\lab 8\obj\Debug\lab 8.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\x\c#\csharp-lab\lab 9\lab 8\obj\Debug\lab 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\x\c#\csharp-lab\lab 9\lab 8\obj\Debug\lec_8.card.resources
+C:\Users\user\Desktop\x\c#\csharp-lab\lab 9\lab 8\obj\Debug\lec_8.Form1.resources
+C:\Users\user\Desktop\x\c#\csharp-lab\lab 9\lab 8\obj\Debug\lec_8.Form2.resources
+C:\Users\user\Desktop\x\c#\csharp-lab\lab 9\lab 8\obj\Debug\lec_8.Form3.resources
+C:\Users\user\Desktop\x\c#\csharp-lab\lab 9\lab 8\obj\Debug\lec_8.Properties.Resources.resources
+C:\Users\user\Desktop\x\c#\csharp-lab\lab 9\lab 8\obj\Debug\lab 8.csproj.GenerateResource.cache
+C:\Users\user\Desktop\x\c#\csharp-lab\lab 9\lab 8\obj\Debug\lab 8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\x\c#\csharp-lab\lab 9\lab 8\obj\Debug\lec 8.exe
+C:\Users\user\Desktop\x\c#\csharp-lab\lab 9\lab 8\obj\Debug\lec 8.pdb

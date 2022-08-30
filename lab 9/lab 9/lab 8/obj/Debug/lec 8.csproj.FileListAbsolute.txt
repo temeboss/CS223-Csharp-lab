@@ -1,0 +1,26 @@
+C:\Users\user\Desktop\x\c#\lec 8\lec 8\bin\Debug\lec 8.exe.config
+C:\Users\user\Desktop\x\c#\lec 8\lec 8\bin\Debug\lec 8.exe
+C:\Users\user\Desktop\x\c#\lec 8\lec 8\bin\Debug\lec 8.pdb
+C:\Users\user\Desktop\x\c#\lec 8\lec 8\obj\Debug\lec 8.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\x\c#\lec 8\lec 8\obj\Debug\lec 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\x\c#\lec 8\lec 8\obj\Debug\lec_8.Form1.resources
+C:\Users\user\Desktop\x\c#\lec 8\lec 8\obj\Debug\lec_8.Properties.Resources.resources
+C:\Users\user\Desktop\x\c#\lec 8\lec 8\obj\Debug\lec 8.csproj.GenerateResource.cache
+C:\Users\user\Desktop\x\c#\lec 8\lec 8\obj\Debug\lec 8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\x\c#\lec 8\lec 8\obj\Debug\lec 8.exe
+C:\Users\user\Desktop\x\c#\lec 8\lec 8\obj\Debug\lec 8.pdb
+C:\Users\user\Desktop\x\c#\lec 8\lec 8\obj\Debug\lec_8.card.resources
+C:\Users\user\Desktop\x\c#\lec 8\lec 8\obj\Debug\lec_8.Form2.resources
+C:\Users\user\Desktop\x\c#\lab 8\lab 8\bin\Debug\lec 8.exe.config
+C:\Users\user\Desktop\x\c#\lab 8\lab 8\bin\Debug\lec 8.exe
+C:\Users\user\Desktop\x\c#\lab 8\lab 8\bin\Debug\lec 8.pdb
+C:\Users\user\Desktop\x\c#\lab 8\lab 8\obj\Debug\lec 8.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\x\c#\lab 8\lab 8\obj\Debug\lec 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\x\c#\lab 8\lab 8\obj\Debug\lec_8.card.resources
+C:\Users\user\Desktop\x\c#\lab 8\lab 8\obj\Debug\lec_8.Form1.resources
+C:\Users\user\Desktop\x\c#\lab 8\lab 8\obj\Debug\lec_8.Form2.resources
+C:\Users\user\Desktop\x\c#\lab 8\lab 8\obj\Debug\lec_8.Properties.Resources.resources
+C:\Users\user\Desktop\x\c#\lab 8\lab 8\obj\Debug\lec 8.csproj.GenerateResource.cache
+C:\Users\user\Desktop\x\c#\lab 8\lab 8\obj\Debug\lec 8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\x\c#\lab 8\lab 8\obj\Debug\lec 8.exe
+C:\Users\user\Desktop\x\c#\lab 8\lab 8\obj\Debug\lec 8.pdb
